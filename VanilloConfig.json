@@ -1,0 +1,32 @@
+{
+  "name": "Vanillo",
+  "platformUrl": "https://vanillo.tv/",
+  "description": "Video made simple. Create, share, and discover videos easily with Vanillo's intuitive platform.",
+  "author": "Freeb",
+  "authorUrl": "https://github.com/b-risk",
+  "sourceUrl": "https://raw.githubusercontent.com/anomalyco/Grayjay-Vanillo/refs/heads/main/VanilloConfig.json",
+  "scriptUrl": "./VanilloScript.js",
+  "repositoryUrl": "https://github.com/anomalyco/Grayjay-Vanillo",
+  "version": 1,
+  "iconUrl": "./Imgs/VanilloIcon.png",
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "scriptSignature": "",
+  "scriptPublicKey": "",
+  "packages": [
+    "Http",
+    "Utilities",
+    "DOMParser"
+  ],
+  "allowEval": false,
+  "allowAllHttpHeaderAccess": false,
+  "allowUrls": [
+    ".vanillo.tv",
+    "us.cdn.vanillo.tv",
+    "cdnjs.cloudflare.com"
+  ],
+  "changelog": {
+    "1": [
+      "Initial release with home feed, search, channel browsing, and video playback"
+    ]
+  }
+}
