@@ -3,11 +3,11 @@ This plugin adds support for the platform [Vanillo](https://vanillo.tv/), allowi
 
 ### Installation
 You can install the plugin by scanning this QR code:  
-![QR Code](https://raw.githubusercontent.com/anomalyco/Grayjay-Vanillo/refs/heads/main/Imgs/qr-code.png)
+![QR Code](https://raw.githubusercontent.com/b-risk/Grayjay-Vanillo/refs/heads/main/Imgs/qr-code.png)
 
 Alternatively, you can add it manually by using this link:
 ```
-grayjay://plugin/https://raw.githubusercontent.com/anomalyco/Grayjay-Vanillo/refs/heads/main/VanilloConfig.json
+grayjay://plugin/https://raw.githubusercontent.com/b-risk/Grayjay-Vanillo/refs/heads/main/VanilloConfig.json
 ```
 
 ### Features
